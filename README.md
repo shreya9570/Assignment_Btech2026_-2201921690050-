@@ -4,3 +4,5 @@ coding plateform used - leetcode
 coding plateform used - leetcode
 3. sales analysis 
 coding plateform used - leetcode
+4.spiral matrix(54)
+coding plateform used - leetcode
