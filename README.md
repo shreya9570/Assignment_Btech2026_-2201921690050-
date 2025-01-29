@@ -2,3 +2,5 @@
 coding plateform used - leetcode
 2 . design parking system(oops)
 coding plateform used - leetcode
+3. sales analysis 
+coding plateform used - leetcode
