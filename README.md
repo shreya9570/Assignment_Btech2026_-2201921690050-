@@ -8,3 +8,5 @@ coding plateform used - leetcode
 coding plateform used - leetcode
 5. two sum 
 coding plateform used - leetcode 
+design hash map(oops)
+coding plateform used - leetcode 
