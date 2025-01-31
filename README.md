@@ -6,3 +6,5 @@ coding plateform used - leetcode
 coding plateform used - leetcode
 4.spiral matrix(54)
 coding plateform used - leetcode
+5. two sum 
+coding plateform used - leetcode 
