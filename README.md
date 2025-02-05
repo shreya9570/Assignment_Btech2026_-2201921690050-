@@ -14,3 +14,5 @@ coding plateform used - leetcode
 coding plateform used - leetcode 
 8.heap insertion and deletion 
 coding plateform used - vs code
+9 heapify 
+coding plateform used - vs code
