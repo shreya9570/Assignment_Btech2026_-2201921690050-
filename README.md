@@ -12,3 +12,5 @@ coding plateform used - leetcode
 coding plateform used - leetcode 
 7.duplicate email(dbms)
 coding plateform used - leetcode 
+8.heap insertion and deletion 
+coding plateform used - vs code
