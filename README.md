@@ -16,3 +16,5 @@ coding plateform used - leetcode
 coding plateform used - vs code
 9 heapify 
 coding plateform used - vs code
+build heap
+coding plateform used - vs code
