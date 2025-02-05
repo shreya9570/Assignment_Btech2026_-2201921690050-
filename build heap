@@ -1,0 +1,52 @@
+#include <iostream>
+using namespace std;
+
+class Heap {
+public:
+    void heapify(int arr[], int n, int index) {
+        int leftIndex = 2 * index;
+        int rightIndex = 2 * index + 1;
+        int largestIndex = index;
+
+       if (leftIndex <= n && arr[leftIndex] > arr[largestIndex]) {
+            largestIndex = leftIndex;
+        }
+
+         if (rightIndex <= n && arr[rightIndex] > arr[largestIndex]) {
+            largestIndex = rightIndex;
+        }
+
+   if (index != largestIndex) {
+            swap(arr[index], arr[largestIndex]);
+            heapify(arr, n, largestIndex);  // Recursive call
+        }
+        }
+
+    void buildHeap(int arr[], int n) {
+        for (int index = n / 2; index > 0; index--) {
+            heapify(arr, n, index);
+        }
+    }
+};
+
+int main() {
+    Heap h;
+    int arr[] = {-1, 20, 60, 10, 30, 50}; // Using -1 for 1-based indexing
+       int n = 5;  // Number of elements
+
+     cout << "Array before buildHeap: ";
+    for (int i = 1; i <= n; i++) {
+         cout << arr[i] << " ";
+    }
+    cout << endl;
+
+      h.buildHeap(arr, n);
+
+   cout << "Array after buildHeap: ";
+    for (int i = 1; i <= n; i++) {
+        cout << arr[i] << " ";
+    }
+    cout << endl;
+
+    return 0;
+}
