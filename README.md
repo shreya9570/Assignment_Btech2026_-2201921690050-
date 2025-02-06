@@ -18,3 +18,5 @@ coding plateform used - vs code
 coding plateform used - vs code
 build heap
 coding plateform used - vs code
+kth smallest number using priorityqueue
+coding plateform used - gfg
