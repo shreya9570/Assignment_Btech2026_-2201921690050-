@@ -20,3 +20,5 @@ build heap
 coding plateform used - vs code
 kth smallest number using priorityqueue
 coding plateform used - gfg
+is binary tee heap
+coding plateform used - gfg
