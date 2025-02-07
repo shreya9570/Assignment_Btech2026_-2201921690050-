@@ -1,0 +1,74 @@
+#include <iostream>
+#include <climits>
+using namespace std;
+
+class Node {
+public:
+    int data;
+    Node* left;
+    Node* right;
+
+    Node(int val) {
+        data = val;
+        left = right = nullptr;
+    }
+};
+
+class Info {
+public:
+    int maxValue;
+    bool isHeap;
+   Info(int a, bool b) {
+        this->maxValue = a;
+        this->isHeap = b;
+    }
+    // This function checks if the tree is a max-heap
+    Info checkMaxHeap(Node* root) {
+        // Base case: empty tree is considered a valid heap
+        if (root == NULL) {
+            Info temp(INT_MIN, true);  // An empty subtree is a heap, and we initialize with a very small value
+            return temp;
+        }
+ // Base case: leaf node is trivially a heap
+        if (root->left == NULL && root->right == NULL) {
+            Info temp(root->data, true);
+            return temp;
+        }
+    // Recursively check left and right subtrees
+        Info leftAns = checkMaxHeap(root->left);
+        Info rightAns = checkMaxHeap(root->right);
+
+        // Now, check if the current node follows the max-heap property
+        if (root->data >= leftAns.maxValue && root->data >= rightAns.maxValue &&
+            leftAns.isHeap && rightAns.isHeap) {
+            // Current node satisfies max-heap property, so return true for this subtree
+            Info ans(root->data, true);
+            return ans;
+        } else {
+            // If the heap property is violated, return the maximum value and mark the subtree as not a heap
+            Info ans(max(root->data, max(leftAns.maxValue, rightAns.maxValue)), false);
+            return ans;
+        }
+    }
+};
+int main() {
+    // Create a sample binary tree
+    Node* root = new Node(10);
+    root->left = new Node(9);
+    root->right = new Node(8);
+    root->left->left = new Node(5);
+    root->left->right = new Node(7);
+    root->right->left = new Node(6);
+
+    // Create an Info object and check if the tree is a max-heap
+    Info infoObj(0, true);
+    Info result = infoObj.checkMaxHeap(root);
+
+    if (result.isHeap) {
+        cout << "The tree is a max-heap." << endl;
+    } else {
+        cout << "The tree is not a max-heap." << endl;
+    }
+
+    return 0;
+}
