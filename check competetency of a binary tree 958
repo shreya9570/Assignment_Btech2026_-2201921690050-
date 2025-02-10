@@ -1,0 +1,29 @@
+lass Solution {
+public:
+    bool levelordertraversal(TreeNode* root) {
+        if (root == NULL) return true; // An empty tree is considered complete
+        queue<TreeNode*> q;
+        q.push(root);
+        bool nullFound = false;
+ while (!q.empty()) {
+            TreeNode* front = q.front();
+            q.pop();
+             // If a NULL node is found, set the flag to true
+            if (front == NULL) {
+                nullFound = true;
+            } else {
+                // If a non-NULL node is found after a NULL node, return false
+                if (nullFound) {
+                    return false; }
+                // Push left and right children to the queue (if they exist)
+                q.push(front->left);
+                q.push(front->right);
+            }
+        }
+        return true; // If we reach here, the tree is complete
+    }
+
+    bool isCompleteTree(TreeNode* root) {
+        return levelordertraversal(root);
+    }
+};
