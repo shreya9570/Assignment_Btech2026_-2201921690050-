@@ -1,0 +1,58 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
+// DFS helper function
+void dfs(int node, vector<vector<int>>& adj, vector<int>& vis, vector<int>& ls) {
+    vis[node] = 1;       // Mark the current node as visited
+    ls.push_back(node);   // Add the current node to the DFS traversal list
+
+    // Visit all neighbors of the current node
+    for (auto it : adj[node]) {
+        if (!vis[it]) {   // If the neighbor hasn't been visited
+            dfs(it, adj, vis, ls); // Recursively visit the neighbor
+        }
+    }
+}
+
+// Main DFS function
+vector<int> dfsOfGraph(vector<vector<int>>& adj) {
+    int n = adj.size();  // Get the number of vertices
+    vector<int> vis(n, 0); // Create a visited array, initialize all to 0
+    vector<int> ls;         // List to store the DFS traversal order
+    
+    int start = 0;           // Start DFS from vertex 0 (can be any starting point)
+    dfs(start, adj, vis, ls);  // Call DFS starting from node 0
+
+    return ls;              // Return the list containing DFS traversal order
+}
+
+int main() {
+    int V, E;
+    cout << "Enter the number of vertices (V): ";
+    cin >> V;
+    cout << "Enter the number of edges (E): ";
+    cin >> E;
+
+    // Create an adjacency list to store the graph
+    vector<vector<int>> adj(V);
+
+    cout << "Enter the edges (u, v) where u and v are vertex numbers (0-based index):\n";
+    for (int i = 0; i < E; i++) {
+        int u, v;
+        cin >> u >> v;
+        adj[u].push_back(v); // Add v to the adjacency list of u
+        adj[v].push_back(u); // Add u to the adjacency list of v (for undirected graph)
+    }
+    
+    vector<int> dfsResult = dfsOfGraph(adj);  // Get the DFS result
+    
+    // Print the DFS traversal result
+    cout << "DFS Traversal: ";
+    for (int node : dfsResult) {
+        cout << node << " ";
+    }
+    cout << endl;
+
+    return 0;
+}
