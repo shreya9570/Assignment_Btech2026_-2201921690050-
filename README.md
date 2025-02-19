@@ -22,3 +22,5 @@ kth smallest number using priorityqueue
 coding plateform used - gfg
 is binary tee heap
 coding plateform used - gfg
+Number of provinces - gfg 
+coding plateform used - gfg 
