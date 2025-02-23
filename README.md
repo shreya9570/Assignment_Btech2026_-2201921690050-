@@ -28,3 +28,19 @@ flood fill - leetcode question 733
 Rotting Orange - leetcode question 994 
 string beauty of all substring - leetcode question - 1781
 Majority Element - II leetcode 229
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0004-median-of-two-sorted-arrays) |
+<!---LeetCode Topics End-->
