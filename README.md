@@ -52,4 +52,8 @@ Majority Element - II leetcode 229
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0015-3sum) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
