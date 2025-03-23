@@ -36,6 +36,7 @@ Majority Element - II leetcode 229
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Majority Element - II leetcode 229
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Sorting
 |  |
 | ------- |
