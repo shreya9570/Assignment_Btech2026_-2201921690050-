@@ -40,6 +40,7 @@ Majority Element - II leetcode 229
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0283-move-zeroes) |
@@ -53,6 +54,7 @@ Majority Element - II leetcode 229
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +68,7 @@ Majority Element - II leetcode 229
 | ------- |
 | [0015-3sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -80,10 +83,15 @@ Majority Element - II leetcode 229
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
