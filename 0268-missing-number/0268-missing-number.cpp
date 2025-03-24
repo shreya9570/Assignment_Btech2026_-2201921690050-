@@ -1,7 +1,7 @@
 class Solution {
-public:
+public: /*
     int missingNumber(vector<int>& nums) {
-     /* int count = 0 ;
+     int count = 0 ;
     int i = 0 ;
     int n = nums.size();
     while( i < n){
@@ -21,6 +21,7 @@ public:
     }
 };
 */
+int missingNumber(vector<int>& nums) {
 int n = nums.size();
 for( int i = 0 ; i < nums.size() ; i++){
     n += i - nums[i];
