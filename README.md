@@ -40,6 +40,7 @@ Majority Element - II leetcode 229
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0189-rotate-array) |
@@ -101,6 +102,7 @@ Majority Element - II leetcode 229
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Recursion
 |  |
 | ------- |
