@@ -116,4 +116,12 @@ Majority Element - II leetcode 229
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2271-rearrange-array-elements-by-sign) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
