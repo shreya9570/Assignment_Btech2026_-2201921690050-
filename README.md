@@ -113,6 +113,7 @@ Majority Element - II leetcode 229
 | ------- |
 | [0053-maximum-subarray](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
@@ -128,13 +129,19 @@ Majority Element - II leetcode 229
 | [0008-string-to-integer-atoi](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0151-reverse-words-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1078-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
