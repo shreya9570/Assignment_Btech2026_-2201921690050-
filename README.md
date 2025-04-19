@@ -71,6 +71,7 @@ Majority Element - II leetcode 229
 | [0151-reverse-words-in-a-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -90,6 +91,7 @@ Majority Element - II leetcode 229
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -126,6 +128,7 @@ Majority Element - II leetcode 229
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -143,6 +146,7 @@ Majority Element - II leetcode 229
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1078-remove-outermost-parentheses) |
 ## Sliding Window
