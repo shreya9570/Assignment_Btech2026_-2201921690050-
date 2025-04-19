@@ -88,6 +88,7 @@ Majority Element - II leetcode 229
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
@@ -100,6 +101,7 @@ Majority Element - II leetcode 229
 | [0001-two-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0049-group-anagrams) |
+| [0138-copy-list-with-random-pointer](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
