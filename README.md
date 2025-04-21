@@ -185,4 +185,8 @@ Majority Element - II leetcode 229
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0226-invert-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
