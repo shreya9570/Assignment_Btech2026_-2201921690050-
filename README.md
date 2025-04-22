@@ -188,5 +188,6 @@ Majority Element - II leetcode 229
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1908-recyclable-and-low-fat-products](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
