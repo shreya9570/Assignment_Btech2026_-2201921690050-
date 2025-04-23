@@ -170,11 +170,13 @@ Majority Element - II leetcode 229
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -185,6 +187,7 @@ Majority Element - II leetcode 229
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Database
 |  |
 | ------- |
