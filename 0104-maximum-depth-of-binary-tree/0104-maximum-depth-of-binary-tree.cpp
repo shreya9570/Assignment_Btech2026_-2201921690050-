@@ -23,6 +23,37 @@ public:
     }
 };
 */class Solution {
+    public:
+int maxDepth(TreeNode* root){
+   if( root == NULL){
+    return 0;
+   }
+    int leftheight =  maxDepth(root -> left );
+    int rightheight = maxDepth(root-> right);
+    return max( leftheight , rightheight) +1 ;
+}
+    };
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+    /*
 public:
 int maxDepth(TreeNode* root){
 if(root == NULL )
@@ -39,22 +70,15 @@ while(!q.empty()){
     if(!q.empty()){
       count++;
       q.push(NULL);
-    }
-
-}
-else {
+    }} else {
     if(front ->left != NULL){
-        q.push(front->left);
-    }
+        q.push(front->left); }
     if( front ->right != NULL){
-        q.push(front->right);
-    }
-}
-}
+        q.push(front->right); }}
 return count ;
 }
 };
-
+*/
 
 
 
