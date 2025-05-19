@@ -53,6 +53,7 @@ Majority Element - II leetcode 229
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0493-reverse-pairs) |
+| [0542-01-matrix](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0733-flood-fill) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -135,6 +136,7 @@ Majority Element - II leetcode 229
 | [0053-maximum-subarray](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0152-maximum-product-subarray) |
+| [0542-01-matrix](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
@@ -198,6 +200,7 @@ Majority Element - II leetcode 229
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0733-flood-fill) |
 ## Binary Tree
@@ -246,5 +249,6 @@ Majority Element - II leetcode 229
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
