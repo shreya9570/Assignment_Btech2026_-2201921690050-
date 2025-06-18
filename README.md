@@ -206,6 +206,7 @@ Majority Element - II leetcode 229
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -217,6 +218,7 @@ Majority Element - II leetcode 229
 | [0542-01-matrix](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -242,11 +244,13 @@ Majority Element - II leetcode 229
 | ------- |
 | [0130-surrounded-regions](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0801-is-graph-bipartite) |
 ## Binary Indexed Tree
 |  |
 | ------- |
