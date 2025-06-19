@@ -104,6 +104,7 @@ Majority Element - II leetcode 229
 | [0169-majority-element](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0451-sort-characters-by-frequency) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Majority Element - II leetcode 229
 | [0169-majority-element](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0451-sort-characters-by-frequency) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -197,6 +199,7 @@ Majority Element - II leetcode 229
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -207,6 +210,7 @@ Majority Element - II leetcode 229
 | [0547-number-of-provinces](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0801-is-graph-bipartite) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -219,6 +223,7 @@ Majority Element - II leetcode 229
 | [0547-number-of-provinces](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0801-is-graph-bipartite) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -226,6 +231,7 @@ Majority Element - II leetcode 229
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Database
 |  |
 | ------- |
