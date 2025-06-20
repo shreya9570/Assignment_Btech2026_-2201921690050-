@@ -68,6 +68,7 @@ Majority Element - II leetcode 229
 | [0004-median-of-two-sorted-arrays](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0035-search-insert-position) |
+| [0222-count-complete-tree-nodes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0792-binary-search) |
@@ -135,6 +136,7 @@ Majority Element - II leetcode 229
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
 ## Counting
 |  |
@@ -197,6 +199,7 @@ Majority Element - II leetcode 229
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0662-maximum-width-of-binary-tree) |
@@ -232,6 +235,7 @@ Majority Element - II leetcode 229
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0662-maximum-width-of-binary-tree) |
