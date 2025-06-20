@@ -199,6 +199,7 @@ Majority Element - II leetcode 229
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -208,6 +209,7 @@ Majority Element - II leetcode 229
 | [0226-invert-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -221,6 +223,7 @@ Majority Element - II leetcode 229
 | [0226-invert-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -231,6 +234,7 @@ Majority Element - II leetcode 229
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Database
 |  |
