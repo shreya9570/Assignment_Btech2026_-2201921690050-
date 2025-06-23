@@ -5,7 +5,7 @@
 };  */
 
 int findCeil(Node* root, int input) {
-    int ceil = -1; // Initialize ceil as -1 (or any value indicating "not found")
+    int ceil = -1; // Initialize ceil as -1 
 
     while (root) {
         if (root->data == input) {
