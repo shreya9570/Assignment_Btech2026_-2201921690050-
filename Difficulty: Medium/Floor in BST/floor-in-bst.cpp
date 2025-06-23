@@ -8,7 +8,7 @@ class Solution {
         while( root ){
             if(root -> data == x ){
             return x ;
-            }hhhh
+            }
             if( root -> data < x){
                 floor = root -> data ;
                 root = root -> right ;
