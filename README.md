@@ -204,6 +204,7 @@ Majority Element - II leetcode 229
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -217,6 +218,7 @@ Majority Element - II leetcode 229
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0226-invert-binary-tree) |
@@ -244,6 +246,7 @@ Majority Element - II leetcode 229
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -305,6 +308,7 @@ Majority Element - II leetcode 229
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0099-recover-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
