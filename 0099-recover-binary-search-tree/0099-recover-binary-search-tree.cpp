@@ -17,7 +17,7 @@ public:
     void inorder(TreeNode* root){
         if (root == NULL) return;
        inorder( root-> left );
-       if( prev && prev ->val > root ->val){
+       if( prev ->val > root ->val){
          if(!first){
             first = prev ;
          }
