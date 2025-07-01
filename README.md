@@ -58,6 +58,7 @@ Majority Element - II leetcode 229
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0792-binary-search) |
@@ -73,6 +74,7 @@ Majority Element - II leetcode 229
 | [0222-count-complete-tree-nodes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
