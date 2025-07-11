@@ -54,6 +54,7 @@ Majority Element - II leetcode 229
 | [0130-surrounded-regions](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0239-sliding-window-maximum) |
@@ -75,6 +76,7 @@ Majority Element - II leetcode 229
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0493-reverse-pairs) |
