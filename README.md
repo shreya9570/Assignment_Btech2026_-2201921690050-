@@ -132,6 +132,7 @@ Majority Element - II leetcode 229
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
