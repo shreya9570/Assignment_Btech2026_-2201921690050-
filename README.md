@@ -283,6 +283,7 @@ Majority Element - II leetcode 229
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1801-average-time-of-process-per-machine](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1801-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1908-recyclable-and-low-fat-products) |
 ## Queue
 |  |
