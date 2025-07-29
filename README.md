@@ -43,6 +43,7 @@ Majority Element - II leetcode 229
 | [0033-search-in-rotated-sorted-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0055-jump-game) |
@@ -171,6 +172,7 @@ Majority Element - II leetcode 229
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -212,6 +214,7 @@ Majority Element - II leetcode 229
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0678-valid-parenthesis-string) |
