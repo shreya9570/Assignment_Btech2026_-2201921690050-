@@ -65,6 +65,7 @@ Majority Element - II leetcode 229
 | [0189-rotate-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -126,6 +127,7 @@ Majority Element - II leetcode 229
 | [0088-merge-sorted-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0451-sort-characters-by-frequency) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
@@ -353,4 +355,8 @@ Majority Element - II leetcode 229
 | [0450-delete-node-in-a-bst](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0784-insert-into-a-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
