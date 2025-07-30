@@ -8,7 +8,7 @@ public:
 
     bool insert(int val) {
         if (valToIndex.count(val)) return false;
-        nums.push_back(val);
+        nums.push_back(val); // Fix: push_back_ ➝ push_back
         valToIndex[val] = nums.size() - 1;
         return true;
     }
@@ -19,11 +19,12 @@ public:
         int index = valToIndex[val];
         int last = nums.back();
 
-        nums[index] = last;
-        valToIndex[last] = index;
+        nums[index] = last;               // Move last element to the place of the one to be removed
+        valToIndex[last] = index;         // Update the index of the moved element
 
-        nums.pop_back();
-        valToIndex.erase(val);
+        nums.pop_back();                  // Remove the last element
+        valToIndex.erase(val);           // Erase from map
+
         return true;
     }
 
@@ -33,6 +34,41 @@ public:
     }
 };
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 
 /**
  * Your RandomizedSet object will be instantiated and called as such:
