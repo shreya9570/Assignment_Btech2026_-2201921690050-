@@ -63,6 +63,7 @@ Majority Element - II leetcode 229
 | [0162-find-peak-element](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0274-h-index) |
@@ -370,4 +371,8 @@ Majority Element - II leetcode 229
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0380-insert-delete-getrandom-o1) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
