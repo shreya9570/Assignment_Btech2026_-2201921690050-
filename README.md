@@ -109,6 +109,7 @@ Majority Element - II leetcode 229
 | [0018-4sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0088-merge-sorted-array) |
@@ -206,6 +207,7 @@ Majority Element - II leetcode 229
 | [0008-string-to-integer-atoi](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0058-length-of-last-word) |
 | [0127-word-ladder](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0127-word-ladder) |
@@ -382,4 +384,8 @@ Majority Element - II leetcode 229
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0238-product-of-array-except-self) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
