@@ -144,6 +144,7 @@ Majority Element - II leetcode 229
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0189-rotate-array) |
@@ -154,6 +155,7 @@ Majority Element - II leetcode 229
 | ------- |
 | [0001-two-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -202,6 +204,7 @@ Majority Element - II leetcode 229
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0127-word-ladder) |
