@@ -114,6 +114,7 @@ Majority Element - II leetcode 229
 | [0075-sort-colors](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0189-rotate-array) |
@@ -212,6 +213,7 @@ Majority Element - II leetcode 229
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0451-sort-characters-by-frequency) |
