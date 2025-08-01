@@ -36,6 +36,7 @@ Majority Element - II leetcode 229
 | ------- |
 | [0001-two-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -207,6 +208,7 @@ Majority Element - II leetcode 229
 | [0008-string-to-integer-atoi](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0058-length-of-last-word) |
@@ -388,4 +390,8 @@ Majority Element - II leetcode 229
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
