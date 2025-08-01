@@ -120,6 +120,7 @@ Majority Element - II leetcode 229
 | [0189-rotate-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0392-is-subsequence) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -191,6 +192,7 @@ Majority Element - II leetcode 229
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
@@ -216,6 +218,7 @@ Majority Element - II leetcode 229
 | [0125-valid-palindrome](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1078-remove-outermost-parentheses) |
