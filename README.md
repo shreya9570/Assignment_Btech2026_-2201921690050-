@@ -36,6 +36,7 @@ Majority Element - II leetcode 229
 | ------- |
 | [0001-two-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0018-4sum) |
@@ -108,6 +109,7 @@ Majority Element - II leetcode 229
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -239,6 +241,7 @@ Majority Element - II leetcode 229
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
