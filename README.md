@@ -145,6 +145,7 @@ Majority Element - II leetcode 229
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0138-copy-list-with-random-pointer) |
@@ -154,6 +155,7 @@ Majority Element - II leetcode 229
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0013-roman-to-integer) |
@@ -206,6 +208,7 @@ Majority Element - II leetcode 229
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0234-palindrome-linked-list) |
 ## Simulation
