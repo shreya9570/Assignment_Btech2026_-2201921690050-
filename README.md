@@ -329,6 +329,7 @@ Majority Element - II leetcode 229
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1338-queries-quality-and-percentage](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1390-average-selling-price) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1773-percentage-of-users-attended-a-contest) |
