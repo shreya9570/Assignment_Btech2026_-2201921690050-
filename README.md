@@ -66,6 +66,7 @@ Majority Element - II leetcode 229
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
@@ -92,6 +93,7 @@ Majority Element - II leetcode 229
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0493-reverse-pairs) |
@@ -243,6 +245,7 @@ Majority Element - II leetcode 229
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0239-sliding-window-maximum) |
 ## Greedy
 |  |
@@ -404,6 +407,7 @@ Majority Element - II leetcode 229
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0238-product-of-array-except-self) |
 ## String Matching
 |  |
