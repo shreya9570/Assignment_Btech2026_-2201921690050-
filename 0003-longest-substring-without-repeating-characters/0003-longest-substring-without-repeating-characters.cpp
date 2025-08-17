@@ -1,7 +1,40 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int lastIndex[256]; // To store last seen index of characters
+        int longest = 0;
+        int left = 0;
+        unordered_set<char> window;
+
+        for (int i = 0; i < s.size(); i++) {
+            while (window.count(s[i])) {
+                window.erase(s[left]); // shrink window
+                left++;
+            }
+            window.insert(s[i]); // expand window
+            longest = max(longest, i - left + 1);
+        }
+
+        return longest;
+    }
+};
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+       /* int lastIndex[256]; // To store last seen index of characters
         memset(lastIndex, -1, sizeof(lastIndex)); // Initialize all indices to -1
         
         int left = 0, maxcount = 0;
@@ -19,3 +52,4 @@ public:
         return maxcount;
     }
 };
+*/
