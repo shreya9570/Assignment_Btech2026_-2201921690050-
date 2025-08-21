@@ -165,6 +165,7 @@ Majority Element - II leetcode 229
 | [0012-integer-to-roman](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0380-insert-delete-getrandom-o1) |
