@@ -164,6 +164,7 @@ Majority Element - II leetcode 229
 | [0009-palindrome-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0189-rotate-array) |
@@ -216,6 +217,7 @@ Majority Element - II leetcode 229
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
