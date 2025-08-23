@@ -347,6 +347,7 @@ Majority Element - II leetcode 229
 | [1801-average-time-of-process-per-machine](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1801-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2087-confirmation-rate) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Queue
 |  |
 | ------- |
