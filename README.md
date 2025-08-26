@@ -188,6 +188,7 @@ Majority Element - II leetcode 229
 | [0169-majority-element](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0424-longest-repeating-character-replacement](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0451-sort-characters-by-frequency) |
 | [0940-fruit-into-baskets](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -240,6 +241,7 @@ Majority Element - II leetcode 229
 | [0127-word-ladder](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1078-remove-outermost-parentheses) |
@@ -255,6 +257,7 @@ Majority Element - II leetcode 229
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1046-max-consecutive-ones-iii) |
 ## Greedy
