@@ -82,6 +82,7 @@ Majority Element - II leetcode 229
 | [0966-binary-subarrays-with-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1073-number-of-enclaves) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -263,6 +264,7 @@ Majority Element - II leetcode 229
 | [0940-fruit-into-baskets](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
 | ------- |
@@ -434,6 +436,7 @@ Majority Element - II leetcode 229
 | [0238-product-of-array-except-self](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0238-product-of-array-except-self) |
 | [0966-binary-subarrays-with-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## String Matching
 |  |
 | ------- |
