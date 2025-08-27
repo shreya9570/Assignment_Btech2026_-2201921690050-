@@ -79,6 +79,7 @@ Majority Element - II leetcode 229
 | [0733-flood-fill](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1073-number-of-enclaves) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -191,6 +192,7 @@ Majority Element - II leetcode 229
 | [0424-longest-repeating-character-replacement](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0451-sort-characters-by-frequency) |
 | [0940-fruit-into-baskets](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
 |  |
@@ -259,6 +261,7 @@ Majority Element - II leetcode 229
 | [0239-sliding-window-maximum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1046-max-consecutive-ones-iii) |
 ## Greedy
 |  |
@@ -429,6 +432,7 @@ Majority Element - II leetcode 229
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0238-product-of-array-except-self) |
+| [0966-binary-subarrays-with-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1046-max-consecutive-ones-iii) |
 ## String Matching
 |  |
