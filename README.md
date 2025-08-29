@@ -53,6 +53,7 @@ Majority Element - II leetcode 229
 | [0054-spiral-matrix](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -187,6 +188,7 @@ Majority Element - II leetcode 229
 | [0013-roman-to-integer](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0127-word-ladder) |
@@ -415,6 +417,7 @@ Majority Element - II leetcode 229
 | [0036-valid-sudoku](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0130-surrounded-regions) |
 | [0289-game-of-life](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0542-01-matrix) |
