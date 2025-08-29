@@ -74,6 +74,7 @@ Majority Element - II leetcode 229
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0493-reverse-pairs](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -232,6 +233,7 @@ Majority Element - II leetcode 229
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0289-game-of-life) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -411,6 +413,7 @@ Majority Element - II leetcode 229
 | [0036-valid-sudoku](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0130-surrounded-regions) |
+| [0289-game-of-life](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1073-number-of-enclaves) |
