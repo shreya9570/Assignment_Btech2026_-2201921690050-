@@ -1,7 +1,45 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-     unordered_map<int , int>p;
+     unordered_map< int , int> p;
+     int n = nums.size();
+     for( int i = 0 ; i < n ; i++){
+        if( p.find(target - nums[i]) != p.end())
+        return {p[target - nums[i]], i };
+        p[nums[i]] = i ;
+     }
+     return {};
+    }
+};
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     /*unordered_map<int , int>p;
      int n = nums.size();
      for( int i = 0 ; i < n ; i++){
         if( p.find(target - nums[i]) != p.end())
