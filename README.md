@@ -196,6 +196,7 @@ Majority Element - II leetcode 229
 | [0141-linked-list-cycle](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0383-ransom-note) |
@@ -255,6 +256,7 @@ Majority Element - II leetcode 229
 | [0125-valid-palindrome](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0424-longest-repeating-character-replacement) |
