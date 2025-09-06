@@ -383,6 +383,7 @@ Majority Element - II leetcode 229
 | [0596-classes-with-at-least-5-students](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0619-biggest-single-number) |
 | [1135-customers-who-bought-all-products](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1135-customers-who-bought-all-products) |
+| [1153-product-sales-analysis-i](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1153-product-sales-analysis-i) |
 | [1155-product-sales-analysis-iii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1155-product-sales-analysis-iii) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1258-article-views-i) |
