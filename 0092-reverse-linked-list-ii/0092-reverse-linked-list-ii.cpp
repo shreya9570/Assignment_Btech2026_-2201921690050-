@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
-        if(!head || left == right) return head;
+        if(!head || left == right) return head ;
 
         // Step 1: Move temp to 'left' node
         ListNode* temp = head;
@@ -30,7 +30,57 @@ public:
         }
 
         // Step 3: Now reverse the list between temp and curr
-        ListNode* prev = nullptr;
+        
+        ListNode*prev = nullptr ;
+        ListNode*start = temp ;
+        ListNode*endpoint = curr -> next ;
+        while( start != endpoint){
+            ListNode* nxt = start->next;
+          start -> next = prev ;
+          prev = start ;
+          start = nxt;
+        }
+        ListNode dummy(0);
+      ListNode*dummybefore = &dummy ;
+      dummy.next = head ;
+      for( int i = 1 ; i < left ; i++){
+        dummybefore = dummybefore -> next ;
+      }
+     dummybefore -> next = prev ;
+     temp -> next = endpoint;
+     return dummy.next ;
+    }
+};
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      /* 
+       ListNode* prev = nullptr;
         ListNode* start = temp;
         ListNode* endNext = curr->next;  // save next of right node
 
@@ -56,3 +106,4 @@ public:
         return dummy.next;
     }
 };
+*/
