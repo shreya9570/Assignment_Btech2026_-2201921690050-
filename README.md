@@ -176,6 +176,7 @@ Majority Element - II leetcode 229
 | [0086-partition-list](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -342,6 +343,7 @@ Majority Element - II leetcode 229
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0222-count-complete-tree-nodes) |
@@ -363,6 +365,7 @@ Majority Element - II leetcode 229
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0226-invert-binary-tree) |
@@ -381,6 +384,7 @@ Majority Element - II leetcode 229
 | [0101-symmetric-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0226-invert-binary-tree) |
@@ -403,6 +407,7 @@ Majority Element - II leetcode 229
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0222-count-complete-tree-nodes) |
