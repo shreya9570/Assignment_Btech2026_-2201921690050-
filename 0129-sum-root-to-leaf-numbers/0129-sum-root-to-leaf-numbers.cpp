@@ -18,8 +18,7 @@ int sumof( TreeNode*root , int digit ){
       return digit ;  
     }
    
-    int sum = sumof( root -> left , digit)+
-    sumof(root -> right , digit );
+    int sum = sumof( root -> left , digit)+sumof(root -> right , digit );
     return sum ;
 }
     int sumNumbers(TreeNode* root) {
