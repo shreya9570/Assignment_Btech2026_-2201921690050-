@@ -85,6 +85,7 @@ Majority Element - II leetcode 229
 | [0542-01-matrix](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1046-max-consecutive-ones-iii) |
@@ -195,6 +196,7 @@ Majority Element - II leetcode 229
 | [0202-happy-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0830-largest-triangle-area](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0830-largest-triangle-area) |
 ## Hash Table
 |  |
 | ------- |
@@ -513,4 +515,8 @@ Majority Element - II leetcode 229
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
