@@ -18,7 +18,7 @@ public:
                     double x3 = points[k][0];
                     double y3 = points[k][1];
 
-                    double current_area = 0.5 * fabs(
+                    double current_area = 0.5 * abs(
                         x1 * (y2 - y3) +
                         x2 * (y3 - y1) +
                         x3 * (y1 - y2)
