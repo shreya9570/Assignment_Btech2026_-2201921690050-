@@ -295,6 +295,7 @@ Majority Element - II leetcode 229
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0020-valid-parentheses) |
+| [0173-binary-search-tree-iterator](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1078-remove-outermost-parentheses) |
@@ -339,6 +340,7 @@ Majority Element - II leetcode 229
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -397,6 +399,7 @@ Majority Element - II leetcode 229
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -482,6 +485,7 @@ Majority Element - II leetcode 229
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0783-search-in-a-binary-search-tree) |
@@ -493,6 +497,7 @@ Majority Element - II leetcode 229
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -522,4 +527,8 @@ Majority Element - II leetcode 229
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0830-largest-triangle-area) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
