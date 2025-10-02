@@ -441,6 +441,7 @@ Majority Element - II leetcode 229
 | [1877-find-followers-count](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2087-confirmation-rate) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Queue
 |  |
