@@ -435,6 +435,7 @@ Majority Element - II leetcode 229
 | [1292-immediate-food-delivery-ii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1292-immediate-food-delivery-ii) |
 | [1338-queries-quality-and-percentage](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1390-average-selling-price) |
+| [1480-movie-rating](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1773-percentage-of-users-attended-a-contest) |
