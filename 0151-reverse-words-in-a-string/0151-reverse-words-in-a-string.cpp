@@ -1,7 +1,68 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        //poore ko reverse
+      reverse(s.begin() , s.end());
+      int l = 0 ;
+      int r = 0 ;
+      int i = 0 ;
+      int n = s.size();
+     while( i < n){
+   while( i < n && s[i] != ' '){
+     s[r++] = s[i++];
+   }
+   // l // r
+   if( l < r){
+    reverse(s.begin() + l , s.begin() + r );
+    //add one space 
+    s[r] = ' ';
+    r++;
+    l = r ;
+   }
+   i++; 
+     }
+     s = s.substr( 0 , r-1); 
+     return s ;
+    }
+};
+
+      
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+      /*  //poore ko reverse
         reverse( s.begin(), s.end());
         int i = 0 ; int l = 0 ; int r = 0 ;
         int n = s.length();
@@ -27,6 +88,7 @@ i++;
         return s ;
 
 } };
+*/
         
         
     
