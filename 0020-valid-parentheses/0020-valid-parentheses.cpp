@@ -7,6 +7,54 @@ public:
     bool isValid(string s) {
         stack<char> st;
         for (int i = 0; i < s.size(); i++) {
+            char c = s[i];
+
+            // Push opening brackets
+            if (c == '(' || c == '{' || c == '[') {
+                st.push(c);
+            }
+            // Check closing brackets
+            else {
+                // If stack empty or mismatch found
+                if (st.empty() ||
+                    (c == ')' && st.top() != '(') ||
+                    (c == '}' && st.top() != '{') ||
+                    (c == ']' && st.top() != '[')) {
+                    return false;
+                }
+                st.pop(); // matched -> remove top
+            }
+        }
+
+        // valid only if stack is empty
+        return st.empty();
+    }
+};
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     /*   stack<char> st;
+        for (int i = 0; i < s.size(); i++) {
             if (s[i] == '(' || s[i] == '{' || s[i] == '[') {
                 st.push(s[i]);
             } else {
@@ -22,7 +70,7 @@ public:
         return st.empty();  // valid only if stack is empty
     }
 };
-
+*/
 
 
 
