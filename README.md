@@ -233,6 +233,7 @@ Majority Element - II leetcode 229
 | [0966-binary-subarrays-with-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -245,6 +246,7 @@ Majority Element - II leetcode 229
 | [0169-majority-element](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0451-sort-characters-by-frequency) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -299,6 +301,7 @@ Majority Element - II leetcode 229
 | [0678-valid-parenthesis-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
