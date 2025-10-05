@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
 public:
     int maxFreqSum(string s) {
        vector<int>freq(26 , 0) ;
@@ -22,5 +22,38 @@ public:
 
        }
        return maxvowel + maxcons;
+    }
+};
+*/
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+public:
+    int maxFreqSum(string s) {
+        unordered_map<char, int> freq;
+        string vowels = "aeiou";
+
+        // Step 1: Count frequency of each character
+        for (char ch : s) {
+            freq[ch]++;
+        }
+
+        // Step 2: Track max vowel and consonant frequencies
+        int maxVowel = 0, maxConsonant = 0;
+
+        for (auto &p : freq) {
+            char c = p.first;
+            int count = p.second;
+
+            if (vowels.find(c) != string::npos) {
+                maxVowel = max(maxVowel, count);
+            } else {
+                maxConsonant = max(maxConsonant, count);
+            }
+        }
+
+        // Step 3: Return sum of max frequencies
+        return maxVowel + maxConsonant;
     }
 };
