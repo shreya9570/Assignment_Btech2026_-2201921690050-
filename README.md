@@ -164,6 +164,7 @@ Majority Element - II leetcode 229
 | [0242-valid-anagram](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0274-h-index) |
+| [0389-find-the-difference](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0451-sort-characters-by-frequency) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -229,6 +230,7 @@ Majority Element - II leetcode 229
 | [0290-word-pattern](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0451-sort-characters-by-frequency) |
 | [0940-fruit-into-baskets](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0940-fruit-into-baskets) |
@@ -242,6 +244,7 @@ Majority Element - II leetcode 229
 | [0136-single-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -297,6 +300,7 @@ Majority Element - II leetcode 229
 | [0242-valid-anagram](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0451-sort-characters-by-frequency) |
