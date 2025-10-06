@@ -203,6 +203,7 @@ Majority Element - II leetcode 229
 | [0202-happy-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0412-fizz-buzz](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0412-fizz-buzz) |
 | [0830-largest-triangle-area](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0830-largest-triangle-area) |
 ## Hash Table
 |  |
@@ -279,6 +280,7 @@ Majority Element - II leetcode 229
 | ------- |
 | [0054-spiral-matrix](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0289-game-of-life) |
+| [0412-fizz-buzz](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0412-fizz-buzz) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -302,6 +304,7 @@ Majority Element - II leetcode 229
 | [0383-ransom-note](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0678-valid-parenthesis-string) |
