@@ -41,8 +41,8 @@ public:
     if( root == NULL){
         return true ;
     }
-    bool cond1 = (root -> val > lowerbond);
-    bool cond2 = ( root ->val < upperbond);
+    bool cond1 =   (root -> val > lowerbond);
+    bool cond2 =   ( root ->val < upperbond);
     bool leftans = solve( root->left  , lowerbond , root -> val );
     bool rightans = solve( root->right , root -> val  , upperbond); 
     if(cond1 && cond2 && leftans && rightans  ){
