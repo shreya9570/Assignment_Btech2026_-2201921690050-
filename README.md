@@ -206,6 +206,7 @@ Majority Element - II leetcode 229
 | [0380-insert-delete-getrandom-o1](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0412-fizz-buzz) |
 | [0830-largest-triangle-area](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0830-largest-triangle-area) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -284,6 +285,7 @@ Majority Element - II leetcode 229
 | [0412-fizz-buzz](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0412-fizz-buzz) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
 | ------- |
@@ -313,6 +315,7 @@ Majority Element - II leetcode 229
 | [1078-remove-outermost-parentheses](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -574,4 +577,12 @@ Majority Element - II leetcode 229
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0042-trapping-rain-water) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
