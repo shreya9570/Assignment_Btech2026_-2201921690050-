@@ -94,6 +94,7 @@ Majority Element - II leetcode 229
 | [1073-number-of-enclaves](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1073-number-of-enclaves) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -281,6 +282,7 @@ Majority Element - II leetcode 229
 | [0054-spiral-matrix](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0412-fizz-buzz) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -310,6 +312,7 @@ Majority Element - II leetcode 229
 | [0678-valid-parenthesis-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
