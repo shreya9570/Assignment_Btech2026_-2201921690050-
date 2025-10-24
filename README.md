@@ -207,6 +207,7 @@ Majority Element - II leetcode 229
 | [0380-insert-delete-getrandom-o1](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0412-fizz-buzz) |
 | [0830-largest-triangle-area](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0830-largest-triangle-area) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
@@ -242,6 +243,7 @@ Majority Element - II leetcode 229
 | [0966-binary-subarrays-with-sum](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -256,6 +258,7 @@ Majority Element - II leetcode 229
 | [0169-majority-element](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0451-sort-characters-by-frequency) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -588,4 +591,12 @@ Majority Element - II leetcode 229
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Backtracking
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2174-next-greater-numerically-balanced-number) |
+## Enumeration
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
