@@ -207,6 +207,7 @@ Majority Element - II leetcode 229
 | [0380-insert-delete-getrandom-o1](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0412-fizz-buzz) |
 | [0830-largest-triangle-area](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0830-largest-triangle-area) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
