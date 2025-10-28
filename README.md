@@ -95,6 +95,7 @@ Majority Element - II leetcode 229
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Binary Search
@@ -209,6 +210,7 @@ Majority Element - II leetcode 229
 | [0830-largest-triangle-area](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0830-largest-triangle-area) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
@@ -321,6 +323,7 @@ Majority Element - II leetcode 229
 | [1078-remove-outermost-parentheses](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
@@ -528,6 +531,7 @@ Majority Element - II leetcode 229
 | [0542-01-matrix](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1073-number-of-enclaves) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Binary Search Tree
 |  |
 | ------- |
