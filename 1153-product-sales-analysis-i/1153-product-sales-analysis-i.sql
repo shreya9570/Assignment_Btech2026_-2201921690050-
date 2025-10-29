@@ -6,5 +6,39 @@
 #Control Over Join Behavior: You can customize how tables are joined by using different conditions in the ON clause
 */
 
+select p.product_name, s.year, s.price
+from Sales s join Product p on s.product_id = p.product_id ;
 
-select p.product_name , s.year, s.price from Sales s join  Product p on s.product_id = p.product_id ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
