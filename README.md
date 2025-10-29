@@ -249,6 +249,7 @@ Majority Element - II leetcode 229
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -265,6 +266,7 @@ Majority Element - II leetcode 229
 | [0383-ransom-note](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0451-sort-characters-by-frequency) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -328,6 +330,7 @@ Majority Element - II leetcode 229
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
