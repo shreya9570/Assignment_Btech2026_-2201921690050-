@@ -213,6 +213,7 @@ Majority Element - II leetcode 229
 | [2174-next-greater-numerically-balanced-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
@@ -256,6 +257,7 @@ Majority Element - II leetcode 229
 | [0222-count-complete-tree-nodes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0389-find-the-difference) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Counting
 |  |
 | ------- |
