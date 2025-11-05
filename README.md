@@ -98,6 +98,7 @@ Majority Element - II leetcode 229
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -174,6 +175,7 @@ Majority Element - II leetcode 229
 | [0414-third-maximum-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0451-sort-characters-by-frequency) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -370,6 +372,7 @@ Majority Element - II leetcode 229
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0678-valid-parenthesis-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
