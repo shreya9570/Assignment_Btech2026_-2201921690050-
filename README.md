@@ -96,6 +96,7 @@ Majority Element - II leetcode 229
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
