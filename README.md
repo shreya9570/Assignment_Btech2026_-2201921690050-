@@ -103,6 +103,7 @@ Majority Element - II leetcode 229
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3616-make-array-elements-equal-to-zero) |
+| [4107-find-missing-elements](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/4107-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -177,6 +178,7 @@ Majority Element - II leetcode 229
 | [0451-sort-characters-by-frequency](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0451-sort-characters-by-frequency) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [4107-find-missing-elements](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/4107-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -259,6 +261,7 @@ Majority Element - II leetcode 229
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4107-find-missing-elements](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/4107-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
