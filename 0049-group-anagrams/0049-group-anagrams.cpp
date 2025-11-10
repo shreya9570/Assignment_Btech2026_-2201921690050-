@@ -1,11 +1,11 @@
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        // map: sorted word -> all anagrams
         unordered_map<string, vector<string>> anagram;
 
         for (string s : strs) {
-            string key = s;                 // copy original word
+            //for( int i = 0 ; i < strs.size() ; i++)
+            string key = s;                 // copy original word // string key = s[i];
             sort(key.begin(), key.end());   // sort characters to form key
             anagram[key].push_back(s);      // group word by sorted key
         }
