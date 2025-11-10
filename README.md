@@ -342,6 +342,7 @@ Majority Element - II leetcode 229
 | [0678-valid-parenthesis-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1542-consecutive-characters](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1542-consecutive-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
