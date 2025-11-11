@@ -160,6 +160,7 @@ Majority Element - II leetcode 229
 | [0234-palindrome-linked-list](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0647-palindromic-substrings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -294,6 +295,7 @@ Majority Element - II leetcode 229
 | [0152-maximum-product-subarray](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0542-01-matrix) |
+| [0647-palindromic-substrings](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0678-valid-parenthesis-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Recursion
@@ -339,6 +341,7 @@ Majority Element - II leetcode 229
 | [0412-fizz-buzz](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0451-sort-characters-by-frequency) |
+| [0647-palindromic-substrings](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1264-maximum-number-of-words-you-can-type) |
