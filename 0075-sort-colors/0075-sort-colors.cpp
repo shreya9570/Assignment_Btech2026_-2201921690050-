@@ -6,7 +6,7 @@ public:
        int two = 0;
        int n = nums.size();
        for( int i = 0 ; i < n ;i++){
-        if( nums[i] == 0)
+        if( nums[i] == 0 )
         zero++;
         if( nums[i] == 1 )
 one++;
@@ -33,7 +33,7 @@ public:
     void sortColors(vector<int>& nums) {
         int low = 0, mid = 0, high = nums.size() - 1;
         
-        while (mid <= high) {
+        while(mid <= high) {
             if (nums[mid] == 0) {
                 swap(nums[low], nums[mid]);
                 low++; mid++;
@@ -48,7 +48,8 @@ public:
         }
     }
 };
-*/
+
+
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
@@ -70,3 +71,26 @@ public:
    }
     }
 };
+*/
+class Solution {
+public:
+    void sortColors(vector<int>& nums) {
+        int low = 0 ; int mid = 0 ; int high =nums.size() - 1 ;
+        while( mid <= high){
+            if( nums[mid] == 0) {
+            swap( nums[low] , nums[mid]);
+            low++;
+            mid++;
+        }
+        else if( nums[mid] == 1){
+          mid++;
+        }
+        else 
+        {
+            swap( nums[mid] , nums[high]);
+            high--;
+        }
+        }
+    }
+};
+
