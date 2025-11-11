@@ -95,6 +95,7 @@ Majority Element - II leetcode 229
 | [1073-number-of-enclaves](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1073-number-of-enclaves) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1646-kth-missing-positive-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -124,6 +125,7 @@ Majority Element - II leetcode 229
 | [0540-single-element-in-a-sorted-array](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1046-max-consecutive-ones-iii) |
+| [1646-kth-missing-positive-number](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1646-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
