@@ -513,6 +513,7 @@ Majority Element - II leetcode 229
 | [1452-restaurant-growth](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1667-fix-names-in-a-table](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1667-fix-names-in-a-table) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1801-average-time-of-process-per-machine) |
