@@ -512,6 +512,7 @@ Majority Element - II leetcode 229
 | [1390-average-selling-price](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1390-average-selling-price) |
 | [1452-restaurant-growth](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1480-movie-rating) |
+| [1484-group-sold-products-by-the-date](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1484-group-sold-products-by-the-date) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1667-fix-names-in-a-table) |
