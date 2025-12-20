@@ -508,6 +508,7 @@ Majority Element - II leetcode 229
 | [1258-article-views-i](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1258-article-views-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1317-monthly-transactions-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1338-queries-quality-and-percentage](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1390-average-selling-price) |
 | [1452-restaurant-growth](https://github.com/shreya9570/Assignment_Btech2026_-2201921690050-/tree/master/1452-restaurant-growth) |
